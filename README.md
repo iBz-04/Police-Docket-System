@@ -1,4 +1,4 @@
-# Police Docket System Project
+# Project Overview
 
 This web application is designed to facilitate the daily operations of a police station, offering user-friendly interfaces and essential functionalities. Below is a comprehensive overview of the project's structure, user access, and technologies used:
 
