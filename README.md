@@ -1,6 +1,11 @@
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ibzdev.site)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibrahh__
+
 # Project Overview
 
-This web application is designed to facilitate the daily operations of a police station, offering user-friendly interfaces and essential functionalities. Below is a comprehensive overview of the project's structure, user access, and technologies used:
+This web application is designed to facilitate the daily operations of a police station, offering user-friendly interfaces and essential functionalities. This project leverages a combination of frontend and backend technologies to deliver a seamless user experience while ensuring robust data management and security protocols.
 
 # Pages:
 
@@ -18,13 +23,15 @@ This web application is designed to facilitate the daily operations of a police 
 
 2. Super Admin: Super Admins possess all the functionalities of ordinary users but also have the authority to manage all users within the system. This includes adding, updating, and deleting user accounts as necessary.
 
-# Tech Stack:
-1. PHP
-2. MySQL - Database
-3. JavaScript
-4. HTML
-5. CSS
-6. SASS
+
+## Tech Stack
+
+**Client:** PHP, JavaScript, HTML, CSS
+
+**Server:** MySQL, PHP
 
 
-This project leverages a combination of frontend and backend technologies to deliver a seamless user experience while ensuring robust data management and security protocols.
+## Authors
+
+- [@iBz-04](https://github.com/iBz-04)
+
