@@ -26,7 +26,7 @@ This web application is designed to facilitate the daily operations of a police 
 
 ## Tech Stack
 
-**Client:** PHP, JavaScript, HTML, CSS
+**Client:** PHP, JavaScript, HTML, SCSS, CSS
 
 **Server:** MySQL, PHP
 
