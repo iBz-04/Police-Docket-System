@@ -1,11 +1,9 @@
--- phpMyAdmin SQL Dump
--- version 5.1.3
--- https://www.phpmyadmin.net/
---
+
 -- Host: 127.0.0.1
--- Generation Time: Apr 23, 2022 at 08:12 AM
+-- Generation Time: Dec 23, 2023 
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 8.1.2
+-- Author: iBz
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -41,7 +39,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`id`, `first_name`, `second_name`, `atp_id`, `admin_role`, `admin_pswrd`) VALUES
-(11, 'IsraTech', 'IsraTech-YouTube Channel', '11', 'Admin', 'isratech.1');
+(11, 'Ibrah', 'Ibrahim Rayamah', '11', 'Admin', 'ibz.1');
 
 -- --------------------------------------------------------
 
